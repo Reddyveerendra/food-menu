@@ -1,0 +1,31 @@
+h1{
+    color:rgb(230, 35, 35); 
+    text-align: center;
+}
+h2{
+    color: red ;
+    text-align: center;
+}
+.text
+{
+    background-image: url(https://i.pinimg.com/736x/7c/b1/86/7cb18679659f791b1191bea97b74dfc0.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+table, th, td {
+    border: 1px solid green;
+  }
+  body {
+    background-color: lemonchiffon;
+  }
+  table {
+    width: 100%;
+    hight: 100px;
+  }
+  th {
+  color: red;
+  }
+  td{
+  color: orange;
+  }
