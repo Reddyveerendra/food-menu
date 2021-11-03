@@ -3,8 +3,15 @@ h1{
     text-align: center;
 }
 h2{
-    color: rgb(255, 167, 4) ;
+    color: rgb(255, 0, 0) ;
     text-align: center;
+}
+.text
+{
+  background-image: url(https://th.bing.com/th/id/OIP.U8P1e5sOD1LFB2Q1h2lm4gHaFP?pid=ImgDet&rs=1);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 body
 {
